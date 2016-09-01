@@ -1,0 +1,18 @@
+development:
+  cloud_name: dfrvxo3dy
+  api_key: '879643236915389'
+  api_secret: oklXre3pyEmfCEIo8u7-A3Khb3s
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dfrvxo3dy
+  api_key: '879643236915389'
+  api_secret: oklXre3pyEmfCEIo8u7-A3Khb3s
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dfrvxo3dy
+  api_key: '879643236915389'
+  api_secret: oklXre3pyEmfCEIo8u7-A3Khb3s
+  enhance_image_tag: true
+  static_image_support: false
